@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohosinin
 - 👀 I’m interested in programming such as c,c++,java,web-development
-- 🌱 I’m currently web-development;
+- 🌱 I’m currently learning web-development;
 - 💞️ I’m looking to collaborate on open for all project.
 - ⚡ Fun fact: I am still a  student.
 
