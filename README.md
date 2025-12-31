@@ -62,14 +62,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohosinin Islam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosinin Islam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohosinin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  
+  &nbsp; 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosinin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohosinin Islam&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohosinin&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 ---
