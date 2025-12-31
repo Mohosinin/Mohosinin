@@ -1,10 +1,13 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2097F3&center=true&vCenter=true&width=500&lines= Hi,+I'm+a+Mohosinin+Islam!;Full+Stack+Developer+(MERN);Python+%26+C%2B%2B+Programmer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2097F3&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mohosinin+Islam!;Full+Stack+Developer+(MERN);Python+%26+C%2B%2B+Programmer;AI+%26+Computer+Vision+Enthusiast" 
+    alt="Typing SVG" 
+    style="max-width: 100%; height: auto;" 
+  />
 
   <h3 align="center">Building Scalable Web Apps & Exploring Deep Learning</h3>
-  
-  <br/>
+</div>
+<br>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mohosinin-islam-282970201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
