@@ -62,17 +62,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohosinin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohosinin&theme=tokyonight" alt="profile details" style="max-width: 100%;" />
   
-  &nbsp; 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohosinin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <br/> <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohosinin&theme=tokyonight" alt="languages" style="max-width: 100%;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohosinin&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohosinin&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" style="max-width: 100%;" />
 </div>
 
 ---
