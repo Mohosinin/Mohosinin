@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2097F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+CS+Student!;Full+Stack+Developer+(MERN);Python+%26+C%2B%2B+Programmer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2097F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Mohosinin+Islam!;Full+Stack+Developer+(MERN);Python+%26+C%2B%2B+Programmer;AI+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
   <h3 align="center">Building Scalable Web Apps & Exploring Deep Learning</h3>
   
